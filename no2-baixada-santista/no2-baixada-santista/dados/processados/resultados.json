@@ -1,0 +1,470 @@
+{
+ "medias": {
+  "media": {
+   "Sao_Paulo_centro": 167.9,
+   "Cubatao_polo": 140.3,
+   "Sao_Vicente": 107.5,
+   "Santos_Porto": 95.3,
+   "Praia_Grande": 85.3,
+   "Guaruja": 60.5,
+   "Mongagua": 52.1,
+   "Itanhaem": 35.4,
+   "Peruibe": 23.8,
+   "Oceano_fundo": 27.3
+  },
+  "mediana": {
+   "Sao_Paulo_centro": 133.2,
+   "Cubatao_polo": 104.6,
+   "Sao_Vicente": 73.8,
+   "Santos_Porto": 68.8,
+   "Praia_Grande": 53.9,
+   "Guaruja": 41.8,
+   "Mongagua": 30.2,
+   "Itanhaem": 24.4,
+   "Peruibe": 20.4,
+   "Oceano_fundo": 20.0
+  },
+  "p90": {
+   "Sao_Paulo_centro": 312.2,
+   "Cubatao_polo": 296.5,
+   "Sao_Vicente": 238.8,
+   "Santos_Porto": 195.6,
+   "Praia_Grande": 201.5,
+   "Guaruja": 134.2,
+   "Mongagua": 121.6,
+   "Itanhaem": 71.3,
+   "Peruibe": 46.1,
+   "Oceano_fundo": 56.6
+  },
+  "dias": {
+   "Sao_Paulo_centro": 1272,
+   "Cubatao_polo": 851,
+   "Sao_Vicente": 1153,
+   "Santos_Porto": 1169,
+   "Praia_Grande": 1232,
+   "Guaruja": 1327,
+   "Mongagua": 1176,
+   "Itanhaem": 1306,
+   "Peruibe": 1301,
+   "Oceano_fundo": 1554
+  },
+  "razao_fundo": {
+   "Sao_Paulo_centro": 6.2,
+   "Cubatao_polo": 5.1,
+   "Sao_Vicente": 3.9,
+   "Santos_Porto": 3.5,
+   "Praia_Grande": 3.1,
+   "Guaruja": 2.2,
+   "Mongagua": 1.9,
+   "Itanhaem": 1.3,
+   "Peruibe": 0.9,
+   "Oceano_fundo": 1.0
+  }
+ },
+ "inv_ver": {
+  "Sao_Paulo_centro": 2.21,
+  "Cubatao_polo": 2.94,
+  "Sao_Vicente": 3.28,
+  "Santos_Porto": 2.71,
+  "Praia_Grande": 3.74,
+  "Guaruja": 2.61,
+  "Mongagua": 3.97,
+  "Itanhaem": 2.58,
+  "Peruibe": 1.7,
+  "Oceano_fundo": 2.06
+ },
+ "tendencia": {
+  "sen_pct_ano": {
+   "Sao_Paulo_centro": 2.307,
+   "Cubatao_polo": 1.103,
+   "Sao_Vicente": 1.327,
+   "Santos_Porto": 1.053,
+   "Praia_Grande": -0.013,
+   "Guaruja": -0.744,
+   "Mongagua": 0.335,
+   "Itanhaem": 0.786,
+   "Peruibe": 0.906,
+   "Oceano_fundo": 1.141
+  },
+  "p": {
+   "Sao_Paulo_centro": 0.19,
+   "Cubatao_polo": 0.649,
+   "Sao_Vicente": 0.513,
+   "Santos_Porto": 0.633,
+   "Praia_Grande": 0.994,
+   "Guaruja": 0.725,
+   "Mongagua": 0.893,
+   "Itanhaem": 0.534,
+   "Peruibe": 0.524,
+   "Oceano_fundo": 0.417
+  }
+ },
+ "semanal": {
+  "dom_util": {
+   "Sao_Paulo_centro": 0.49,
+   "Cubatao_polo": 0.67,
+   "Sao_Vicente": 0.68,
+   "Santos_Porto": 0.68,
+   "Praia_Grande": 0.69,
+   "Guaruja": 0.71,
+   "Mongagua": 0.76,
+   "Itanhaem": 0.79,
+   "Peruibe": 0.85,
+   "Oceano_fundo": 0.88
+  },
+  "sab_util": {
+   "Sao_Paulo_centro": 0.72,
+   "Cubatao_polo": 0.87,
+   "Sao_Vicente": 0.86,
+   "Santos_Porto": 0.88,
+   "Praia_Grande": 0.88,
+   "Guaruja": 0.87,
+   "Mongagua": 0.83,
+   "Itanhaem": 0.88,
+   "Peruibe": 0.99,
+   "Oceano_fundo": 0.94
+  },
+  "ic_lo": {
+   "Sao_Paulo_centro": 0.46,
+   "Cubatao_polo": 0.58,
+   "Sao_Vicente": 0.6,
+   "Santos_Porto": 0.6,
+   "Praia_Grande": 0.61,
+   "Guaruja": 0.63,
+   "Mongagua": 0.65,
+   "Itanhaem": 0.7,
+   "Peruibe": 0.76,
+   "Oceano_fundo": 0.79
+  },
+  "ic_hi": {
+   "Sao_Paulo_centro": 0.53,
+   "Cubatao_polo": 0.77,
+   "Sao_Vicente": 0.77,
+   "Santos_Porto": 0.77,
+   "Praia_Grande": 0.77,
+   "Guaruja": 0.8,
+   "Mongagua": 0.87,
+   "Itanhaem": 0.89,
+   "Peruibe": 0.94,
+   "Oceano_fundo": 0.99
+  }
+ },
+ "vento_Santos_Porto": {
+  "vel": {
+   "(0, 1]": 116.7,
+   "(1, 2]": 102.2,
+   "(2, 3]": 83.9,
+   "(3, 4]": 64.3,
+   "(4, 10]": 38.0
+  },
+  "setor": {
+   "N": [
+    155.4,
+    187
+   ],
+   "NE": [
+    97.0,
+    212
+   ],
+   "E": [
+    45.6,
+    336
+   ],
+   "SE": [
+    54.4,
+    80
+   ],
+   "S": [
+    37.1,
+    69
+   ],
+   "SO": [
+    49.2,
+    48
+   ],
+   "O": [
+    113.3,
+    40
+   ],
+   "NO": [
+    166.0,
+    197
+   ]
+  },
+  "chuva_sim_nao": [
+   56.0,
+   111.9
+  ]
+ },
+ "vento_Cubatao_polo": {
+  "vel": {
+   "(0, 1]": 166.8,
+   "(1, 2]": 149.7,
+   "(2, 3]": 109.7,
+   "(3, 4]": 88.0,
+   "(4, 10]": 68.3
+  },
+  "setor": {
+   "N": [
+    226.1,
+    143
+   ],
+   "NE": [
+    136.9,
+    147
+   ],
+   "E": [
+    68.5,
+    176
+   ],
+   "SE": [
+    77.9,
+    46
+   ],
+   "S": [
+    43.7,
+    32
+   ],
+   "SO": [
+    60.0,
+    24
+   ],
+   "O": [
+    127.5,
+    34
+   ],
+   "NO": [
+    177.2,
+    249
+   ]
+  },
+  "chuva_sim_nao": [
+   75.8,
+   158.1
+  ]
+ },
+ "vento_Praia_Grande": {
+  "vel": {
+   "(0, 1]": 98.8,
+   "(1, 2]": 88.3,
+   "(2, 3]": 59.3,
+   "(3, 4]": 50.8,
+   "(4, 10]": 37.4
+  },
+  "setor": {
+   "N": [
+    168.0,
+    163
+   ],
+   "NE": [
+    104.8,
+    171
+   ],
+   "E": [
+    41.3,
+    371
+   ],
+   "SE": [
+    39.6,
+    99
+   ],
+   "S": [
+    33.7,
+    97
+   ],
+   "SO": [
+    23.3,
+    53
+   ],
+   "O": [
+    78.2,
+    50
+   ],
+   "NO": [
+    140.7,
+    228
+   ]
+  },
+  "chuva_sim_nao": [
+   43.3,
+   104.8
+  ]
+ },
+ "vento": {
+  "vento_Santos_Porto": {
+   "(0, 1]": 116.7,
+   "(1, 2]": 102.2,
+   "(2, 3]": 83.9,
+   "(3, 4]": 64.3,
+   "(4, 10]": 38.0
+  },
+  "vento_Cubatao_polo": {
+   "(0, 1]": 166.8,
+   "(1, 2]": 149.7,
+   "(2, 3]": 109.7,
+   "(3, 4]": 88.0,
+   "(4, 10]": 68.3
+  },
+  "vento_Praia_Grande": {
+   "(0, 1]": 98.8,
+   "(1, 2]": 88.3,
+   "(2, 3]": 59.3,
+   "(3, 4]": 50.8,
+   "(4, 10]": 37.4
+  }
+ },
+ "pandemia": {
+  "bruto_pct": {
+   "Sao_Paulo_centro": -52.64,
+   "Cubatao_polo": -51.65,
+   "Sao_Vicente": -42.72,
+   "Santos_Porto": -45.72,
+   "Praia_Grande": -35.59,
+   "Guaruja": -34.7,
+   "Mongagua": -42.68,
+   "Itanhaem": -21.85,
+   "Peruibe": -28.56,
+   "Oceano_fundo": -14.59
+  },
+  "normalizado_pct": {
+   "Sao_Paulo_centro": -38.33,
+   "Cubatao_polo": -32.85,
+   "Sao_Vicente": -22.81,
+   "Santos_Porto": -23.22,
+   "Praia_Grande": -18.37,
+   "Guaruja": -15.82,
+   "Mongagua": -22.53,
+   "Itanhaem": -5.36,
+   "Peruibe": -25.36,
+   "Oceano_fundo": -1.59
+  },
+  "r2": {
+   "Sao_Paulo_centro": 0.61,
+   "Cubatao_polo": 0.58,
+   "Sao_Vicente": 0.65,
+   "Santos_Porto": 0.59,
+   "Praia_Grande": 0.59,
+   "Guaruja": 0.57,
+   "Mongagua": 0.5,
+   "Itanhaem": 0.42,
+   "Peruibe": 0.28,
+   "Oceano_fundo": 0.42
+  },
+  "n2020": {
+   "Sao_Paulo_centro": 35.0,
+   "Cubatao_polo": 31.0,
+   "Sao_Vicente": 37.0,
+   "Santos_Porto": 37.0,
+   "Praia_Grande": 37.0,
+   "Guaruja": 38.0,
+   "Mongagua": 37.0,
+   "Itanhaem": 41.0,
+   "Peruibe": 46.0,
+   "Oceano_fundo": 39.0
+  }
+ },
+ "aod_media": {
+  "Sao_Paulo_centro": 0.14,
+  "Cubatao_polo": 0.144,
+  "Sao_Vicente": 0.162,
+  "Santos_Porto": 0.149,
+  "Praia_Grande": 0.179,
+  "Guaruja": 0.155,
+  "Mongagua": 0.142,
+  "Itanhaem": 0.162,
+  "Peruibe": 0.159,
+  "Oceano_fundo": 0.148
+ },
+ "aod_mes": {
+  "1": 0.154,
+  "2": 0.149,
+  "3": 0.153,
+  "4": 0.141,
+  "5": 0.122,
+  "6": 0.119,
+  "7": 0.123,
+  "8": 0.152,
+  "9": 0.228,
+  "10": 0.191,
+  "11": 0.159,
+  "12": 0.158
+ },
+ "aod_tend": {
+  "sen_dec": {
+   "Sao_Paulo_centro": 0.009,
+   "Cubatao_polo": -0.0148,
+   "Sao_Vicente": -0.0096,
+   "Santos_Porto": -0.0068,
+   "Praia_Grande": -0.008,
+   "Guaruja": -0.0052,
+   "Mongagua": -0.0024,
+   "Itanhaem": -0.0045,
+   "Peruibe": -0.0056,
+   "Oceano_fundo": 0.0003
+  },
+  "p": {
+   "Sao_Paulo_centro": 0.0201,
+   "Cubatao_polo": 0.0645,
+   "Sao_Vicente": 0.0001,
+   "Santos_Porto": 0.2452,
+   "Praia_Grande": 0.1391,
+   "Guaruja": 0.0303,
+   "Mongagua": 0.3692,
+   "Itanhaem": 0.2452,
+   "Peruibe": 0.3156,
+   "Oceano_fundo": 0.9159
+  }
+ },
+ "so2": {
+  "mean": {
+   "Sao_Paulo_centro": 0.00016,
+   "Cubatao_polo": 0.00018,
+   "Sao_Vicente": 0.000176,
+   "Santos_Porto": 0.000143,
+   "Praia_Grande": 0.000159,
+   "Guaruja": 0.0001,
+   "Mongagua": 0.000149,
+   "Itanhaem": 0.000127,
+   "Peruibe": 0.000157,
+   "Oceano_fundo": 0.000139
+  },
+  "std": {
+   "Sao_Paulo_centro": 0.000203,
+   "Cubatao_polo": 0.000241,
+   "Sao_Vicente": 0.000216,
+   "Santos_Porto": 0.000212,
+   "Praia_Grande": 0.000186,
+   "Guaruja": 0.000153,
+   "Mongagua": 0.000199,
+   "Itanhaem": 0.000163,
+   "Peruibe": 0.000189,
+   "Oceano_fundo": 0.000155
+  }
+ },
+ "co": {
+  "mean": {
+   "Sao_Paulo_centro": 0.02897,
+   "Cubatao_polo": 0.030303,
+   "Sao_Vicente": 0.030558,
+   "Santos_Porto": 0.030382,
+   "Praia_Grande": 0.030647,
+   "Guaruja": 0.030389,
+   "Mongagua": 0.030216,
+   "Itanhaem": 0.030282,
+   "Peruibe": 0.028838,
+   "Oceano_fundo": 0.029746
+  },
+  "std": {
+   "Sao_Paulo_centro": 0.006115,
+   "Cubatao_polo": 0.007013,
+   "Sao_Vicente": 0.006785,
+   "Santos_Porto": 0.006774,
+   "Praia_Grande": 0.006756,
+   "Guaruja": 0.006714,
+   "Mongagua": 0.006665,
+   "Itanhaem": 0.006524,
+   "Peruibe": 0.006323,
+   "Oceano_fundo": 0.008963
+  }
+ }
+}

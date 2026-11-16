@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se usar estes dados ou códigos, cite como abaixo."
+title: "NO2 na Baixada Santista por satélite (2018–2025): dados e código"
+authors:
+  - family-names: "Araujo"
+    given-names: "Theo Goulart Tavares de Lima"
+    affiliation: "Universidade Estadual de Londrina"
+    orcid: "https://orcid.org/0009-0006-4310-1161"
+version: "1.0.0"
+date-released: "2026-11-16"
+license: MIT
+keywords:
+  - TROPOMI
+  - Sentinel-5P
+  - NO2
+  - qualidade do ar
+  - Baixada Santista

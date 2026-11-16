@@ -1,0 +1,3 @@
+Os dados horários de NO2 da CETESB não são redistribuídos aqui.
+Baixe-os em https://qualar.cetesb.sp.gov.br (Exportar dados > NO2 > médias horárias), para as estações
+Santos-Ponta da Praia (2018-2025) e Cubatão-Centro (2018-2025), e salve os CSV nesta pasta.

@@ -1,0 +1,199 @@
+{
+ "cv": {
+  "2019": {
+   "Sao_Paulo_centro": -25.2,
+   "Cubatao_polo": 9.7,
+   "Sao_Vicente": 6.2,
+   "Santos_Porto": 3.4,
+   "Praia_Grande": 5.8,
+   "Guaruja": -1.2,
+   "Mongagua": -12.0,
+   "Itanhaem": -23.9,
+   "Peruibe": -16.0,
+   "Oceano_fundo": -24.8
+  },
+  "2021": {
+   "Sao_Paulo_centro": 17.7,
+   "Cubatao_polo": 47.3,
+   "Sao_Vicente": 44.8,
+   "Santos_Porto": 56.4,
+   "Praia_Grande": 24.9,
+   "Guaruja": 61.5,
+   "Mongagua": -5.8,
+   "Itanhaem": 17.1,
+   "Peruibe": 17.3,
+   "Oceano_fundo": -2.0
+  },
+  "2022": {
+   "Sao_Paulo_centro": 48.4,
+   "Cubatao_polo": 11.4,
+   "Sao_Vicente": 10.3,
+   "Santos_Porto": -2.8,
+   "Praia_Grande": 27.0,
+   "Guaruja": -4.6,
+   "Mongagua": 99.7,
+   "Itanhaem": 66.9,
+   "Peruibe": -3.4,
+   "Oceano_fundo": 13.6
+  },
+  "2023": {
+   "Sao_Paulo_centro": -10.1,
+   "Cubatao_polo": -7.5,
+   "Sao_Vicente": -14.6,
+   "Santos_Porto": -15.0,
+   "Praia_Grande": -18.3,
+   "Guaruja": 6.6,
+   "Mongagua": -10.6,
+   "Itanhaem": 1.0,
+   "Peruibe": -0.6,
+   "Oceano_fundo": -13.4
+  },
+  "2024": {
+   "Sao_Paulo_centro": -21.2,
+   "Cubatao_polo": -7.1,
+   "Sao_Vicente": -3.9,
+   "Santos_Porto": -9.0,
+   "Praia_Grande": -11.9,
+   "Guaruja": -8.4,
+   "Mongagua": -40.0,
+   "Itanhaem": -28.5,
+   "Peruibe": -24.3,
+   "Oceano_fundo": -13.3
+  },
+  "dp": {
+   "Sao_Paulo_centro": 30.9,
+   "Cubatao_polo": 22.3,
+   "Sao_Vicente": 22.5,
+   "Santos_Porto": 28.7,
+   "Praia_Grande": 20.6,
+   "Guaruja": 28.9,
+   "Mongagua": 53.9,
+   "Itanhaem": 38.6,
+   "Peruibe": 15.9,
+   "Oceano_fundo": 14.5
+  },
+  "media": {
+   "Sao_Paulo_centro": 1.9,
+   "Cubatao_polo": 10.7,
+   "Sao_Vicente": 8.5,
+   "Santos_Porto": 6.6,
+   "Praia_Grande": 5.5,
+   "Guaruja": 10.8,
+   "Mongagua": 6.3,
+   "Itanhaem": 6.5,
+   "Peruibe": -5.4,
+   "Oceano_fundo": -8.0
+  }
+ },
+ "perfis": {
+  "Barra de Santos (canal do porto)": {
+   "0.0": 77.2,
+   "3.0": 65.7,
+   "6.0": 57.2,
+   "9.0": 52.6,
+   "12.0": 50.0,
+   "15.0": 45.8,
+   "18.0": 41.8,
+   "21.0": 39.6,
+   "24.0": 36.7,
+   "27.0": 34.1,
+   "30.0": 32.6,
+   "33.0": 30.2,
+   "36.0": 28.9,
+   "39.0": 27.4,
+   "42.0": 26.5,
+   "45.0": 25.3
+  },
+  "Praia Grande (costa sem porto)": {
+   "0.0": 81.8,
+   "3.0": 69.3,
+   "6.0": 61.0,
+   "9.0": 52.8,
+   "12.0": 48.3,
+   "15.0": 43.8,
+   "18.0": 40.2,
+   "21.0": 37.7,
+   "24.0": 35.6,
+   "27.0": 33.3,
+   "30.0": 32.0,
+   "33.0": 30.3,
+   "36.0": 28.3,
+   "39.0": 26.6,
+   "42.0": 25.6,
+   "45.0": 24.5
+  },
+  "Itanha\u00e9m": {
+   "0.0": 37.2,
+   "3.0": 33.6,
+   "6.0": 31.5,
+   "9.0": 29.3,
+   "12.0": 27.7,
+   "15.0": 26.0,
+   "18.0": 25.0,
+   "21.0": 24.2,
+   "24.0": 22.7,
+   "27.0": 22.0,
+   "30.0": NaN,
+   "33.0": NaN,
+   "36.0": NaN,
+   "39.0": NaN,
+   "42.0": NaN,
+   "45.0": NaN
+  }
+ },
+ "fundeio": {
+  "area_fundeio": 50.493032200999245,
+  "mesma_lat_oeste": 35.56711914522263,
+  "oceano_aberto": 27.320456347297295
+ },
+ "quebras": {
+  "quebra": {
+   "Sao_Paulo_centro": "2021-03-01",
+   "Cubatao_polo": "",
+   "Sao_Vicente": "",
+   "Santos_Porto": "",
+   "Praia_Grande": "",
+   "Guaruja": "",
+   "Mongagua": "",
+   "Itanhaem": "",
+   "Peruibe": "",
+   "Oceano_fundo": ""
+  },
+  "p_pettitt": {
+   "Sao_Paulo_centro": 7.701127626805097e-05,
+   "Cubatao_polo": 0.12691905465901693,
+   "Sao_Vicente": 0.0507581871330433,
+   "Santos_Porto": 0.1607505910879362,
+   "Praia_Grande": 0.29344633467525133,
+   "Guaruja": 0.18829263042382122,
+   "Mongagua": 0.22149771279803787,
+   "Itanhaem": 0.1607505910879362,
+   "Peruibe": 0.4788994672181254,
+   "Oceano_fundo": 0.057243896589976535
+  },
+  "salto_jul2021": {
+   "Sao_Paulo_centro": 2.749765273934953,
+   "Cubatao_polo": -9.209171747539308,
+   "Sao_Vicente": 2.4649438034104234,
+   "Santos_Porto": 3.386479860832574,
+   "Praia_Grande": 1.6310834841953077,
+   "Guaruja": 1.7214672792417391,
+   "Mongagua": 2.568882556003178,
+   "Itanhaem": 2.2473675845310606,
+   "Peruibe": -3.177409658399384,
+   "Oceano_fundo": 13.413622079693383
+  },
+  "p_salto": {
+   "Sao_Paulo_centro": 0.14346345513874448,
+   "Cubatao_polo": 0.12650330218951716,
+   "Sao_Vicente": 0.9533339752146197,
+   "Santos_Porto": 0.7698257213335625,
+   "Praia_Grande": 0.9636960206145428,
+   "Guaruja": 0.9948119629844618,
+   "Mongagua": 0.8913880773507052,
+   "Itanhaem": 0.4546031927990771,
+   "Peruibe": 0.7303791991488586,
+   "Oceano_fundo": 0.04053844016944113
+  }
+ }
+}

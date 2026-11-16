@@ -1,0 +1,96 @@
+{
+ "Santos-Ponta da Praia": {
+  "n": 1164,
+  "slope": 0.07889227387910759,
+  "slope_se": 0.002898866694076386,
+  "intercept": 7.052740717099939,
+  "r": 0.6239170977784299,
+  "p": 1.4154621160584732e-126,
+  "rmse": 9.045081019668924,
+  "mae": 5.967748108635986,
+  "media_st": 14.513745704467354,
+  "media_trop": 94.5720616292599,
+  "n_m": 87,
+  "slope_m": 0.1175542910124287,
+  "intercept_m": 3.2546263448275887,
+  "r_m": 0.8636424174959768,
+  "rmse_m": 3.3449661693426735,
+  "mae_m": 2.3323631645442524,
+  "cv_st": 0.7978033628164642,
+  "cv_trop": 0.9682888456767181
+ },
+ "Cubatão-Centro": {
+  "n": 514,
+  "slope": 0.08424271045937036,
+  "slope_se": 0.0040595287646761225,
+  "intercept": 9.67835229289389,
+  "r": 0.6759024071494961,
+  "p": 7.192666304253193e-70,
+  "rmse": 11.144470575217142,
+  "mae": 8.017924452079244,
+  "media_st": 21.648832684824903,
+  "media_trop": 142.0951477778518,
+  "n_m": 44,
+  "slope_m": 0.08303770989199201,
+  "intercept_m": 9.426106458757491,
+  "r_m": 0.7536925297396362,
+  "rmse_m": 5.048392307892582,
+  "mae_m": 4.051635928901022,
+  "cv_st": 0.6991744827170867,
+  "cv_trop": 0.8546582068133076
+ },
+ "raio": {
+  "2": {
+   "Sao_Paulo_centro": 6.36,
+   "Cubatao_polo": 5.75,
+   "Sao_Vicente": 4.37,
+   "Santos_Porto": 3.95,
+   "Praia_Grande": 3.34,
+   "Guaruja": 2.33,
+   "Mongagua": 2.14,
+   "Itanhaem": 1.38,
+   "Peruibe": 0.91,
+   "Oceano_fundo": 1.0
+  },
+  "4": {
+   "Sao_Paulo_centro": 6.25,
+   "Cubatao_polo": 5.59,
+   "Sao_Vicente": 4.31,
+   "Santos_Porto": 3.84,
+   "Praia_Grande": 3.32,
+   "Guaruja": 2.34,
+   "Mongagua": 2.12,
+   "Itanhaem": 1.36,
+   "Peruibe": 0.89,
+   "Oceano_fundo": 1.0
+  },
+  "6": {
+   "Sao_Paulo_centro": 6.14,
+   "Cubatao_polo": 5.37,
+   "Sao_Vicente": 4.28,
+   "Santos_Porto": 3.7,
+   "Praia_Grande": 3.32,
+   "Guaruja": 2.34,
+   "Mongagua": 2.11,
+   "Itanhaem": 1.35,
+   "Peruibe": 0.88,
+   "Oceano_fundo": 1.0
+  },
+  "8": {
+   "Sao_Paulo_centro": 5.98,
+   "Cubatao_polo": 5.07,
+   "Sao_Vicente": 4.2,
+   "Santos_Porto": 3.56,
+   "Praia_Grande": 3.33,
+   "Guaruja": 2.35,
+   "Mongagua": 2.1,
+   "Itanhaem": 1.33,
+   "Peruibe": 0.86,
+   "Oceano_fundo": 1.0
+  }
+ },
+ "pixel_m": [
+  1113.205092090557,
+  1113.205092090557
+ ]
+}
